@@ -1,3 +1,9 @@
+## Download
+
+[![Download](https://img.shields.io/badge/Download-PowerShell%20Runner-blue?style=for-the-badge&logo=windows)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/PowerShellRunner-v1.1.0-win-x64.zip)
+
+The published package is provided for Windows x64.
+
 # PowerShell Runner
 
 PowerShell Runner is a Windows desktop application designed to make working with PowerShell scripts simpler and more convenient.
@@ -17,12 +23,6 @@ Instead of running scripts directly from a terminal every time, PowerShell Runne
 
 - Windows 10 or Windows 11
 - .NET 10 Desktop Runtime
-
-## Download
-
-[![Download](https://img.shields.io/badge/Download-PowerShell%20Runner-blue?style=for-the-badge&logo=windows)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/PowerShellRunner-v1.1.0-win-x64.zip)
-
-The published package is provided for Windows x64.
 
 ## License
 
