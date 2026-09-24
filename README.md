@@ -20,7 +20,7 @@ Instead of running scripts directly from a terminal every time, PowerShell Runne
 
 ## Download
 
-Download the latest release from the **Releases** section.
+[![Download](https://img.shields.io/badge/Download-PowerShell%20Runner-blue?style=for-the-badge&logo=windows)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/PowerShellRunner-v1.1.0-win-x64.zip)
 
 The published package is provided for Windows x64.
 
