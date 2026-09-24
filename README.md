@@ -1,6 +1,6 @@
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-PowerShell%20Runner-blue?style=for-the-badge&logo=windows)](https://github.com/Roman-git-hub/Power-Shell-Runner/releases/download/1.1.0/PowerShellRunner-v1.1.0-win-x64.zip)
+[![Download](https://img.shields.io/badge/Download-PowerShell%20Runner-blue?style=for-the-badge&logo=windows)](https://github.com/Roman-git-hub/Power-Shell-Runner/releases/download/1.1.0/PowerShellRunner-v1.2.0-win-x64.zip)
 
 The published package is provided for Windows x64.
 
