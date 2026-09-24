@@ -21,7 +21,7 @@ Instead of running scripts directly from a terminal every time, PowerShell Runne
 
 ## Requirements
 
-- Windows 7, 8, 10 or Windows 11
+- Windows 8, 10 or Windows 11
 - .NET 10 Desktop Runtime
 
 ## License
